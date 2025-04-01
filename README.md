@@ -26,7 +26,7 @@ Este projeto realiza a detecção de comportamentos anômalos em sensores de pre
 
 ---
 
-## 📊 Dashboard (`dashboard.py`)
+## 📊 Aplicação(`app.py`)
 
 - Leitura do modelo `.pkl`
 - Interface para entrada de dados manuais ou via API
